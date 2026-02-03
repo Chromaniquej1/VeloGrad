@@ -1,6 +1,6 @@
 # VeloGrad Optimizer Implementation
 
-This repository contains the implementation of **VeloGrad**, a novel momentum-based optimizer with dynamic scaling and adaptive decay, as described in the research paper "VeloGrad: A Momentum-Based Optimizer with Dynamic Scaling and Adaptive Decay" by Jayant Biradar and Disha.
+This repository contains the implementation of **VeloGrad**, a novel momentum-based optimizer with dynamic scaling and adaptive decay, as described in the research paper "VeloGrad: A Momentum-Based Optimizer with Dynamic Scaling and Adaptive Decay" by Jayant Biradar and Harsh Wasnik.
 
 ## Overview
 
